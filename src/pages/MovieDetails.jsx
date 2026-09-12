@@ -34,7 +34,7 @@ function MovieDetails() {
 
   return (
     <div className="details-page">
-      <h1 className="details-heading">🎬 Movie Details</h1>
+      <h1 className="details-heading">🎬 MOVIE DETAILS</h1>
 
       {loading && <p>Loading...</p>}
 
