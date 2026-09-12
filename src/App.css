@@ -26,7 +26,10 @@
 .app {
   min-height: 100vh;
   width: 100%;
-  background-color: #0f172a;
+  background-image: url("./assets/movie-bg.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   color: white;
   padding: 30px;
 }
